@@ -1,0 +1,17 @@
+
+What is Microsoft Azure?
+Microsoft Azure is a set of unified cloud services, 
+which help IT professionals and developers to build, deploy and manage applications through the global network of Azure data centers.
+
+
+Overview of Azure Services
+Azure provides cloud services that can be used to design and implement your customized cloud solution and infrastructure. They allow you to:
+
+Migrate on-premises datacenter to Azure cloud
+
+Deploy cloud-based applications
+
+Host workload in the Azure cloud
+
+Integrate Azure cloud services with an on-premises infrastructure
+Azure cloud services can be categorized as Compute, Network, Data and Storage, App Services, etc. These are few to name and there are much more to help with Identity and Access Management, Automation, Security, Availability, etc.

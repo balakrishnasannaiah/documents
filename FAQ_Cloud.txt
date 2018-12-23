@@ -1,0 +1,329 @@
+Cloud BUZZ words:
+=================
+Cloud technologies
+cloud platforms
+cloud services
+cloud solutions
+cloud infrastructure
+cloud service providers
+cloud migration
+cloud development
+cloud integration
+cloud strategy
+cloud implementation
+cloud network
+cloud storage
+cloud computing
+cloud public/private/hybrid
+cloud datacenter
+cloud enablers
+cloud/on premise computing
+cloud offerings
+IaaS/PaaS/SaaS
+Storage, Database, Information, Process, Application, Integration, Security, Management, Testing-as-a-service.
+Multi cloud strategy
+cloud and IoT
+
+COntainars
+Kubernetes
+Dockers
+
+Hyperviser
+Virtual server
+
+TIBCO cloud offerings/TCI(TIBCO cloud ntegration)
+Microservices and API management
+
+Less TCO
+Pay as you use
+speed and agility
+elasticity and scalability
+
+
+-------------------------------------------------------------------
+- Cloud computing
+The practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer.
+
+Digital business requires speed and agility that cloud computing provides through the use of cloud services.” A key benefit of public cloud infrastructure as a service (IaaS) and platform as a service (PaaS) is to place applications closer to customers to enable a better user experience.
+
+Cloud  means network of servers hosted on internet, these servers are used for store, manage, and process data, so its called cloud computing.
+
+- Cloud network
+Cloud networking (and Cloud based networking) is a term describing the access of networking resources from a centralized third-party provider using Wide Area Networking (WAN) or Internet-based access technologies. ... In cloud networking, the network can be shared as well as the computing resources.
+
+- cloud development
+A cloud application, or cloud app, is a software program where cloud-based and local components work together. This model relies on remote servers for processing logic that is accessed through a web browser with a continual internet connection
+
+- Multi-cloud strategy 
+Most enterprises with a multi-cloud strategy are running each application in a single cloud. It's common for companies to run applications in one or more public clouds while also running applications in a private cloud and some applications in their virtualized environments
+
+
+- cloud enablers 
+Cloud enabler refers to the technologies and manufacturers that serve as the backbone for all cloud computing products and services. A broad term incorporating technology vendors and solutions, a cloud enabler allows an organization to build, deploy, integrate and deliver cloud computing solutions.
+
+--------------------------------------------------------
+Why Customer wants to move on to Cloud services solutions?
+
+- Businesses that want to simplify operations and make it easier for their customers to access services will move more aggressively toward integrating SaaS, IaaS, and/or PaaS into their business processes.
+
+- Less TCO
+- Pay as you use
+
+
+
+How the increase in Cloud Data Storage will help Cloud services solutions business growth?
+
+While data centers owners move to increase available storage, forward-thinking businesses will be able to take advantage of that space to further their objectives. For example, businesses that work with big data will use this increased space to store large data sets, perform analytics on them, and harvest valuable insights into areas such as customer behavior, human systems, and strategic financial investments. For small businesses, increased storage capacity means that 2018 will provide custom or bespoke storage options at far lower prices than were available in 2017.
+
+->use this increased space to store large data sets, perform analytics on them, and harvest valuable insights into areas such as customer behavior
+
+
+
+
+How IoT/IoE business depends on Cloud services?
+
+IoE relies on machine to machine communications, data, processes, and how humans communicate with everything in their environment. Cloud computing will play a significant role as the IoE develops into complex systems aimed at simplifying all interactions.
+ IoE will also provide businesses with more insight into how consumers relate to their products or services, customer care units, and one another. This data can then be used in multiple ways, including simplifying customer experience through automation and the use of smart robots
+
+->simplifying all interactions.
+
+
+
+How Cloud computing helps network quality and hence customer expectation?
+
+Enhanced network quality will increase consumer expectations for highly-responsive, fast-loading services and apps. Savvy business owners will move quickly to reevaluate and upgrade their SaaS, PaaS, and website platforms to be more responsive. The IoT and IoE industries will also benefit from faster network speeds by allowing organizations in this space to receive and deliver data more efficiently in real time.
+
+-> upgrade their SaaS, PaaS
+- good network quality
+
+
+
+How Cloud services address the cyber security requirements?
+
+We expect 2018 will see more individual and state-sponsored attacks aimed at undermining the security of cloud infrastructures. As cyber attackers become more sophisticated, security analysts in government, public, and private sectors will also have to become more sophisticated and timely in their methods for detecting and preventing attacks. Businesses will recognize the necessity of investing in tools like security information and event management (SIEM) and malware detection systems as fundamental defense mechanisms for cyber security. 
+
+Cloud services can play a role here as well, with managed security service providers offering robust services to businesses that could not otherwise implement full security measures.
+
+-> managed security service providers offering
+
+=======================================================================================
+
+http://www.tomsitpro.com/articles/cloud-computing-solutions,1-1755.html
+----------------------------------------------------------------------
+
+What are the solutions cloud computing include?
+Cloud computing solutions can include IT infrastructure, development platforms and software. 
+
+Cloud computing solutions come in the form of Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and Software as a Service (SaaS). 
+
+
+
+What does "the cloud" measns for an IT professionals?
+"the cloud" can mean a lot of things to different people, for IT professionals it offers a way to extend existing capacity and capabilities of IT components
+
+What are cloud services?
+Cloud services are IT components, such as software, programming languages, networking and servers that are delivered to organizations on-demand, usually on a pay-as-you-go or subscription basis. 
+
+- software, 
+- programming languages, 
+- networking and 
+- servers
+
+
+How to evaluste a cloud computing solutions?
+By outlining the key considerations as well as the pros, cons and risks that come along with them.
+what the solutions offer and how they can benefit your organization
+
+
+IaaS:
+
+What is Iaas?
+Infrastructure as a Service (IaaS) is a cloud model which allows organizations to outsource computing equipment and resources such as servers, storage, networking as well as services, such as load balancing and content delivery networks
+
+The IaaS provider owns and maintains the equipment while the organization rents out the specific services it needs, usually on a "pay as you go" basis. 
+
+•IaaS Provider: Amazon Web Services (AWS)
+•IaaS Provider: Windows Azure
+•IaaS Provider: Google Compute Engine
+•IaaS Provider: Rackspace Open Cloud
+•IaaS Provider: IBM SmartCloud Enterprise
+•IaaS Provider: HP Enterprise Converged Infrastructure
+
+
+PaaS:
+
+What is PaaS?
+Platform as a Service (PaaS) is a cloud model designed for software developers that streamlines the development process by shifting specific aspects of systems management to the service provider.
+
+PaaS is used to develop web and mobile applications using components that are pre-configured and maintained by the service provider, including programming languages, application servers and databases
+
+•PaaS Provider: Engine Yard
+•PaaS Provider: Red Hat OpenShift
+•PaaS Provider: Google App Engine
+•PaaS Provider: Heroku
+•PaaS Provider: AppFog
+•PaaS Provider: Windows Azure Cloud Services
+•PaaS Provider: Amazon Web Services (AWS)
+•PaaS Provider: Caspio
+•Specialized PaaS: mBaaS Providers
+
+
+SaaS:
+
+What is SaaS?
+Software as a Service (SaaS) is a cloud model that delivers on-demand applications that are hosted and managed by the service provider and typically paid for on a subscription basis
+
+SaaS solutions offer a number of advantages over on-premises deployments, including minimal administration and maintenance, anywhere access, and in many cases improved communication and collaboration.
+
+•SaaS Customer Service Providers
+•SaaS Office Suite Providers
+•SaaS Project Management Providers
+•SaaS Help Desk Providers
+
+
+
+===========================
+CLoud computng by Brian and curtie Franklin Jr.
+
+- Abstrction and computing as a public utility
+- Saas and Web2.0 concepts in 2000
+- Cloud computing definition : Cloud computing is an information proessing model in which
+centrally administered computing capabiliries are delivered as services. on an as needed basis,
+across networks, to a variety of user facing devices.
+- Difference between cloud computing, virtualization, Clustering(HPC)
+- Seperate processing from processers
+- Abstraction is the foundation concept for cloud computing
+- Abstraction of function and system
+- timeshare -> Cluster -> Grid -> cloud 
+- Think of cloud and not server to host applications, etc
+- Abstruction, connection and well definied ninterfaces are teh three components are importet in cloud computing
+
+
+=========================
+
+
+
+
+
+=============================================================================
+
+what is multi cloud?
+
+
+Who are the participent of the cloud implementation?
+- Client/customer
+- Server provider
+- Solution provider
+
+Where do I fit in the above category?
+- Solution provider
+
+
+-MUAL SOft
+
+- FUSE 
+
+
+
+======================================
+		MISC
+======================================
+What are the technologies you knows with profficiency
+- Programming languages: c, c++, Java
+- Operating Systems: RHEL, SOlaris, HP-UX, Win
+- Databases: Oracle, Sybase (simple SQLqueries, procedures)
+- Scripting: basicshell scripts
+
+what are the Tools/Frameworks/Methodologies/Standards you knows
+
+- The Open Group Architectural Framework TOGAF) 8.1
+- SOA architectural method
+- 
+
+What are the things you need learn
+- Agile
+- DevOps
+- TIBCO MSA and API management
+- BW 6.x
+- TCI
+
+
+
+Cloud Requirements published on 2nd July:
+-------------------------------------------
+
+Work on cutting edge tech in cloud
+Work with the best and the brightest in the domain
+Help create exponential value for your customers digital transformation journey 
+The following positions are open with our unit. Our experts would help you understand more on these roles and your fitment during the interaction. 
+Cloud Advisory Architect
+Cloud Solutions Architecht
+Openstack Architect
+VMWare Architects (Vsphere/VRO/VRA)
+Network Architect (CISCO - Data & Security)
+Storage Admin / Architect (Hitachi /EMC)
+Cloud foundry / Pivotal Cloud Foundry
+Developers (Python, Ruby, Perl, Java)
+Developers (Chef, Puppet, Ansible)
+CommVault/Network/Avamar
+Analytics/Big Data/Hadoop on Cloud
+Docker & Kubernettes
+AWS Architect
+AZURE Architect
+Network - Routing, Switching, L4-L7 service 
+Unix - SUSE , RedHat , Oracle Linux
+Compute and CommVault Backup
+Solarwinds, ServiceNow
+Citrix Administrator
+IoT & Smack Stack
+OpenShift
+Data Architect (Oracle, MS Sql, MySql, MongoDB, Postgresql, Cassandra, DB2)
+Middleware technologies (Rabbit MQ, Dell Boomi, WebSphere, Mule, TIBCO, WebMethods, SpringBoot)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

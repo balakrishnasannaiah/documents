@@ -1,0 +1,31 @@
+
+
+
+
+
+- What is openstack Red Hat?
+Red Hat Enterprise Linux OpenStack Platform uses the Red Hat Enterprise Virtualization (RHEV) hypervisor, which is based on the open source KVM hypervisor. The distribution became available in June 2013 and runs on any hardware certified for Red Hat Enterprise Linux (RHEL).
+
+
+
+
+What is the hypervisor used in AWS?
+The AWS AMI and the Xen hypervisor. Every AWS AMI uses the Xen hypervisor on bare metal. Xen offers two kinds of virtualization: HVM (Hardware Virtual Machine) and PV (Paravirtualization).
+
+
+
+
+
+Is openstack like Vmware?
+ESXi is a hypervisor but not a Cloud platform or toolkit. The VMware products that most directly map to OpenStack is not vSphere or ESXi, but vCloud Automation Center and vCloud Director. In fact, OpenStack does not have it's own hypervisor but manages different hypervisors, such as KVM, Xen, Hyper-V, AND ESXi
+
+
+
+What hypervisor is used in Azure?
+Azure Hypervisor is referred to the native hypervisor in Azure Cloud Services platform that enables in creating virtualized machines and servers on Azure Cloud Platform. It is similar to Microsoft Hyper V but it is customized specifically for Azure Platform.
+
+
+
+
+What hypervisor does Google use?
+Google Compute Engine uses KVM as the hypervisor, and supports guest images running Linux and Microsoft Windows which are used to launch virtual machines based on the 64 bit x86 architecture

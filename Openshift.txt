@@ -1,0 +1,23 @@
+
+
+
+
+
+- What is a Openshift?
+OpenShift Container Platform. Known as OpenShift Enterprise until a June 2016 name change, OpenShift Container Platform is a private platform as a service (PaaS) for organizations that deploy and manage OpenShift on their own on-premises hardware or on the infrastructure of a certified cloud provider
+
+
+OpenShift Container Platform (formerly known as OpenShift Enterprise) is Red Hat's on-premises private platform as a service oduct, 
+built around a core of application containers powered by Docker, with orchestration and management provided by Kubernetes, on a foundation of Red Hat Enterprise Linux.
+
+
+
+
+What are the pods in OpenShift?
+OpenShift leverages the Kubernetes concept of a pod , which is one or more containers deployed together on one host, and the smallest compute unit that can be defined, deployed, and managed. ... OpenShift treats pods as largely immutable; changes cannot be made to a pod definition while it is running
+
+
+
+
+What is Openshift origin?
+OpenShift Origin is an application platform where developers and teams can build, test, deploy, and run their applications. OpenShift Origin also serves as the upstream code base upon which OpenShift Online and OpenShift Container Platform are built

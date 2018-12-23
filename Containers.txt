@@ -1,0 +1,162 @@
+
+CONTAINERS:
+http://www.tomsitpro.com/tags/containers/?refine=docker
+
+
+============================================================
+
+Docker Container: What It Is and Why It's Important
+
+http://www.tomsitpro.com/articles/docker-container-faq,1-3340.html
+
+
+
+- What is container technology and what is the defference between the Container and Docker technology?
+
+. Container technology like Docker doesn't just take a process that's runningand isolate it, it packages it
+	  with all the files and libraries it needs.
+
+. Containers in general, and Docker in particular, these two are becomining sysnonymous
+
+. Docker is a company that has been creating technology arround the container concept, that has been there arround for decade
+
+. Both chroot and containers can isolate a process, limiting its exposure to the rest of the operating system.
+  likewise keeping the operating system safe frmo teh processe
+
+. However, containers take the concept of process isolation to a new level.
+
+
+
+
+
+- How container technology works?
+
+Container technology like Docker doesn't take just one process thats running and isolate it.
+Insted a container is created that contains everything that process needs, including all of the supporting files,
+libraries, binaries needed to run and packages it into container image.
+
+
+This container becomes a process in Dockeer environment that is ready to be moved.shipped and deployed to 
+one or more other computer running Docker.
+
+
+
+- what is the some similarities between Docker containers and virtual machines? 
+
+Both use an abstraction layer that acts as a go-between for the resources, whether that's a virtual machine or a containerized application. Both allow sharing of the abstracted hardware or operating system and function as a bridge that can enable the resources to be accessed.
+
+
+
+- What is the advantage?
+
+Docker images with their ability to be deployed, copied, modified, and started on multiple computers brings many to identify 
+containers  as a way to virtualize applications	
+
+. Multiple virualmachines are not required to test a application
+. Saves lot of storage space as don't have to provision multiple VMs
+. COntainer image leverages the operating system thats running on
+. OS doesn't need to be included in the container image
+. SO induvidual container image will not be larger than the application package itself
+. Because even one application can be provisioned multiple times on the host, 
+  since the applications are each unaware of the presence of the other, they can all operate 
+  on the same host just as though they were running on their own virtual machine.  	
+. The other huge benefit to working with Docker containers for working with applications
+  is that the configuration for the application is all stored inside the Docker image
+
+
+
+
+- What is Docker Engine?
+
+. Docker Engine is the application that needs to be installed on any host OS that you want to use to run or create Docker images
+. Docker was created to run on Linux and in its initial release it was only available on Linux. 
+. Now Windows and Mac client is available so that Docker can be run directly on the developer machine without the use of a VM running linux
+
+
+
+
+
+Bottom Line
+
+The success of Docker and container technologies has created a cottage industry within technology, 
+with a wide range of products and services that improve the usability, features or security of containers. 
+
+Public cloud providers like Amazon, Google and Microsoft Azure all provide services for Docker containers, 
+and the marketplace on those public cloud providers offer a rich ecosystem for Docker and containers.
+
+
+
+=======================================
+
+Docker:
+http://www.tomsitpro.com/articles/build-first-docker-container,1-3662.html
+
+
+===================================================================
+
+- What is Docker?
+
+. Docker is one of a few container management platforms available across operating systems such as Windows, Linux or MacOS.
+. It manages the build, deployment and tear-down of containers and 
+. eliminates the "works on my machine" problem by essentially   creating an abstraction layer between your application and the   underlying operating system 
+. while at the same time describing the application including the operating system as code, the so-called Dockerfile. 
+
+Also
+. Docker is a platform and tool for building, distributing, and running Docker containers
+
+
+Why you need Docker container platform?
+ . You use Docker Containers to create and contain everything you need in one image
+ . Once created, it would be easy to manually install an application or change settings inside of the container
+
+
+================================================
+
+
+
+
+
+
+- What is a containerized applications?
+Application containerization is an OS-level virtualization method used to deploy and run distributed applications without launching an entire virtual machine (VM) for each app. Multiple isolated applications or services run on a single host and access the same OS kernel
+
+
+
+
+
+What is a container Google?
+Google Kubernetes Engine (GKE) is a management and orchestration system for Docker container and container clusters that run within Google's public cloud services. Google Kubernetes Engine is based on Kubernetes, Google's open source container management system
+
+
+
+
+==========================
+
+18/05/2018:
+https://docs.docker.com/engine/docker-overview/#docker-objects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
